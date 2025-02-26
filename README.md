@@ -4,7 +4,7 @@
 **0k1nd/0k1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0k1nd&theme=github)
+![GitHub Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=0k1nd&theme=github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0k1nd&theme=github))
 
 Here are some ideas to get you started:
 
